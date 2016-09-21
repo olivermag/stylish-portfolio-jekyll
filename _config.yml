@@ -9,17 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
+owner: Olivier Magny
+email: olivier.magny1010@gmail.com
+facebook_username: omagny
 twitter_username:
-github_username:
+github_username: olivermag
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
-copyright:
+copyright: 2016
 
 # API settings
 google_api_key:
